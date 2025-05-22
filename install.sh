@@ -5,4 +5,3 @@ sudo pacman -Syu
 ./install-custom.sh
 ./install-yay.sh
 ./multilib.sh
-sudo pacman -Syu
