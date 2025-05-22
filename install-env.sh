@@ -1,4 +1,6 @@
 #!/bin/sh
+git config --global init.defaultBranch main
+git config --global user.name "$USER"
 cd ~
 git clone https://github.com/Eliass0/dots.git
 git clone https://github.com/Eliass0/scripts.git
