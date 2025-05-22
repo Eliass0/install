@@ -1,1 +1,1 @@
-sudo yay -S $(cat packages-yay)
+yay -S $(cat packages-yay)
