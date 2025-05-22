@@ -1,1 +1,1 @@
-yay -S --noconfirm --needed --nodiffmenu --nocleanmenu $(cat packages-yay)
+yay -S --noconfirm --needed $(cat packages-yay)
