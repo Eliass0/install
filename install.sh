@@ -1,3 +1,5 @@
-sudo pacman -S $(cat packages-pacman)
-./packages-custom.sh
-sudo yay -S $(cat packages-yay)
+#!/bin//sh
+./install-pacman.sh
+./install-env.sh
+./install-custom.sh
+./install-yay.sh

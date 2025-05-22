@@ -1,3 +1,5 @@
+libx11
+libxinerama
 neovim
 git
 less
