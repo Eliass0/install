@@ -5,3 +5,4 @@ git clone https://github.com/Eliass0/scripts.git
 cp ~/install/.xinitrc ~
 cd ~/dots
 stow .
+sudo systemctl enable ly.service

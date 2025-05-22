@@ -1,6 +1,8 @@
 libx11
 libxinerama
 xorg-xinit
+xorg-xsetroot
+slock
 neovim
 git
 less
@@ -31,3 +33,4 @@ noto-fonts
 ttf-jetbrains-mono
 patch
 gcc
+ly
