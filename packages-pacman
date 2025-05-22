@@ -1,5 +1,6 @@
 libx11
 libxinerama
+xorg-xinit
 neovim
 git
 less
