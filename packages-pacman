@@ -2,6 +2,7 @@ libx11
 libxinerama
 xorg-xinit
 xorg-xsetroot
+xclip
 slock
 neovim
 git

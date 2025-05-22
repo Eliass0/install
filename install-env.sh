@@ -6,3 +6,5 @@ cp ~/install/.xinitrc ~
 cd ~/dots
 stow .
 sudo systemctl enable ly.service
+sudo chsh -s /bin/zsh "$USER"
+

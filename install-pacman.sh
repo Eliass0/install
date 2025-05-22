@@ -1,1 +1,1 @@
-sudo pacman -S $(cat packages-pacman)
+sudo pacman -S --noconfirm --needed $(cat packages-pacman)
